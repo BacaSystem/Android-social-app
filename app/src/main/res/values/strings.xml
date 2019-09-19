@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase App</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_description">This is a short description of your profile</string>
+</resources>
